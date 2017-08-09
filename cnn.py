@@ -11,6 +11,8 @@
 #into digital characters. After some research, you find the EMNIST dataset,
 #which seems perfect for the task.
 
+#Used bibliography: http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
 from PIL import Image
 import numpy as np
 
